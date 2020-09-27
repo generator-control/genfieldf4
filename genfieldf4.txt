@@ -1,6 +1,6 @@
-Configuration	drum
+Configuration	genfieldf4
 STM32CubeMX 	6.0.1
-Date	09/24/2020
+Date	09/27/2020
 MCU	STM32F407VGTx
 
 
@@ -135,8 +135,8 @@ Pin Nb	PINs	FUNCTIONs	LABELs
 SOFTWARE PROJECT
 
 Project Settings : 
-Project Name : drum
-Project Folder : /home/deh/GliderWinchItems/drum
+Project Name : genfieldf4
+Project Folder : /home/deh/generator-control/genfieldf4
 Toolchain / IDE : Makefile
 Firmware Package Name and Version : STM32Cube FW_F4 V1.25.0
 
