@@ -1,1 +1,1 @@
-repo for using a DiscoveryF4 for generator control. Initial clone from GliderWinchItems/drum.
+repo for using a DiscoveryF4 for generator control. Initial clone from GliderWinchItems/drum, branch 'realfaux'.
